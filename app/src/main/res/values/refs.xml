@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="rating_g" />
+    <drawable name="rating_m18" />
+    <drawable name="rating_nc16" />
+    <drawable name="rating_pg" />
+    <drawable name="rating_pg13" />
+    <drawable name="rating_r21" />
+</resources>
